@@ -3,7 +3,7 @@ package boletin3_solis_maria;
 import java.util.Scanner;
 
 public class ejercicio1 {
-
+//Este ejercicio no esta bien explicado y no consigo ver si el numero que introduzco es para o impar
 	public static void main(String[] args) {
 		var scanner = new Scanner(System.in);
 		int numero;
