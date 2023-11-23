@@ -1,5 +1,6 @@
 # git-colabora
 # Ejercicio 1: aplicación que solicite al usuario un número e indique si es par o impar.
+(En el ejercicio 1 he añadido un comentario para que se sepa que no realiza bien el proceso )
 # Ejercicio 2: aplicación que pide dos números enteros y decir si son iguales o si son distintos cuál es mayor.
 # Ejercicio 3: a plicación que Implementar un programa que pida por teclado un número decimal e indique si es un número casi-cero, que son aquellos, positivos o negativos, que se acercan a 0 por menos de 1 unidad, aunque curiosamente el 0 no se considera un número casi-cero
 # Ejercicio 4: Escribe un programa que calcule el salario semanal de un trabajador teniendo en cuenta que las horas ordinarias (40 primeras horas de trabajo) se pagan a 12 euros la hora. A partir de la hora 41, se pagan a 16 euros la hora.
